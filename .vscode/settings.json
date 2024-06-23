@@ -1,3 +1,4 @@
 {
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/Users/Nasrul Wahabi/Documents/00--programming/mobile-developer/Flutter Applications/chatapp_firebase_mysql/windows/flutter"
 }
